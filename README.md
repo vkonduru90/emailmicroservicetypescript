@@ -31,7 +31,7 @@ Steps to Run the app.
 11. To Build `npm run build`
 12. To Test `npm run test`
 
-#Points To Note:
+## Points To Note:
 
 1. Used `Express.json()` to parse the request body. ( I can go with other third part lib ex: `body parser` )
 2. I didn't enable the "CORS" as am doing only backend. But i can do with `Cors` lib.
@@ -46,6 +46,8 @@ Steps to Run the app.
 11. Written test cases and you can see coverage report in `Coverage` Folder.
 12. Configured typescript config, jest config for more comfortness.
 
+
+## if you need any help in running the project you can call me on my whatsapp +91 9177095606
 
 
 
