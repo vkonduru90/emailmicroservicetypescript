@@ -1,4 +1,4 @@
-Steps to Run the app.
+# Steps to Run the app.
 
 
 1. Download or Clone the Code
@@ -48,22 +48,3 @@ Steps to Run the app.
 
 
 ## if you need any help in running the project you can call me on my whatsapp +91 9177095606
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
